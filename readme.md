@@ -1,12 +1,14 @@
+#
+Mars Rover Challenge
 
-# Installation
-compose install
+## Installation
+Just run compose install for the autoloading
 
-# Usage
-Go to the directory app and execute the following command:
+## Usage
+Go to the directory app and execute `console.php` as CLI command:
 
 `php console.php`
 
-#  Todo
+##  Todo
 - Add CLI management (symfomy console) so user can edit the Rover navigation
 - Unit test on the src/ classes using phpunit

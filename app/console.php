@@ -3,8 +3,6 @@
 require __DIR__ . '/../vendor/autoload.php';
 require __DIR__ . '/app.php';
 
-use Symfony\Component\Console\Application;
-use App\Command\RoverNavigationCommand;
 use App\Src\RoverNavigation\Platform;
 use App\Src\RoverNavigation\Rover;
 
